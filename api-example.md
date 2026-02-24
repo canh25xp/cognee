@@ -1,7 +1,13 @@
 # Cognee REST API
 
 1. Get all datasets
-2. If no dataset available, create one
+2. If no dataset available, create one.
+3. Add data to the dataset
+4. Build knowledge graph
+5. Search
+
+> [!NOTE]
+> Replace localhost with 107.98.150.183
 
 ## Datasets
 
